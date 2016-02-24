@@ -1,0 +1,122 @@
+body {
+    background-color: lightcoral;
+    padding-bottom: 70px;
+}
+nav{
+    margin-bottom:1em;
+}
+.title{
+    color:#fff;
+}
+
+a, a:hover, a:visited, a:active {
+    color: #404040;
+    text-decoration: none;
+}
+
+a.cart{
+    color: white;
+}
+
+
+.container {
+    padding: 1em;
+    margin: 0 auto;
+    width: 80%;
+    max-width: 960px;
+}
+
+.page {
+    width: 100%;
+    height: auto;
+    padding: 2em;
+    background-color: #333;
+    border-radius: 0.5em;
+}
+
+.loginpage,
+.loginform {
+    display: table-cell;
+    padding: 1em;
+    width: 100%;
+}
+
+.homepage {
+    border-radius: 0.5em;
+    padding: 1em;
+    background-color: #fff;
+}
+
+.manualform {
+    display: none;
+}
+
+.shadow {
+    -webkit-box-shadow: 0 8px 6px -6px black;
+    -moz-box-shadow: 0 8px 6px -6px black;
+    box-shadow: 0 8px 6px -6px black;
+}
+
+.loginpage {
+    padding: 5%;
+    width: 20%;
+}
+
+.postpage{
+    margin:0 0 1em 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+.loginform {
+    border-radius: 0.5em;
+    background-color: #fff;
+    width: 70%;
+}
+
+form {
+    margin: 0 auto;
+    width: 50%;
+}
+
+footer {
+    text-align: center;
+}
+
+a.title:hover {
+    text-decoration: none;
+}
+
+.postimg {
+    display: inline-block !important;
+    margin: 0 auto;
+}
+
+.caption{
+    margin-bottom:1em;
+}
+
+
+.search{
+    margin:0 auto;
+    width:50%;
+}
+
+.center-block {float: none !important}
+
+.blabla{
+    margin-bottom:  1em;
+}
+
+hr{
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
+
+.glyphicon.glyphicon-align-justify{
+    font-size: 20pt;
+    color: white;
+}
